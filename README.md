@@ -35,14 +35,14 @@ Spark        1 hr 30 mins    █░░░░░░░░░░░░░░░░
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="GCP" width="30px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />]
-[<img align="left" alt="AWS" width="30px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" />][website]
-[<img align="left" alt="Hadoop" width="30px" src="https://e7.pngegg.com/pngimages/260/648/png-clipart-apache-hadoop-logo-big-data-data-analysis-hadoop-distributed-filesystem-hue-hadoop-text-logo.png" />][website]
+[<img align="left" alt="AWS" width="30px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" />]
+[<img align="left" alt="Hadoop" width="30px" src="https://e7.pngegg.com/pngimages/260/648/png-clipart-apache-hadoop-logo-big-data-data-analysis-hadoop-distributed-filesystem-hue-hadoop-text-logo.png" />]
 [<img align="left" alt="Spark" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" />][website]
-[<img align="left" alt="Kafka" width="30px" src="https://i0.wp.com/logosandtypes.com/wp-content/uploads/2019/08/kafka.png" />][website]
-[<img align="left" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />][website]
-[<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" />][website]
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="Kafka" width="30px" src="https://i0.wp.com/logosandtypes.com/wp-content/uploads/2019/08/kafka.png" />]
+[<img align="left" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />]
+[<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" />]
+[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
 <br />
