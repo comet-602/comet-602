@@ -1,9 +1,9 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shuli Lin  [arthurtibame][website] 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shuli Lin  [comet-602][website] 👋
 
 ## I'm a Junior Data Engineer and also Data Analyst!
 - 🔭 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects , find a good job
 - ⚡ Fun fact: I love to self-studying and solving problems
 
 📊 **This week I spent my time on**
@@ -65,9 +65,3 @@ Spark        1 hr 30 mins    █░░░░░░░░░░░░░░░░
 <img align="right" alt="arthurtibame's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtibame" />
 
 
-[website]: http://arthurtibame.tk
-[linkedin]: https://www.linkedin.com/in/shuli-lin-1679a9152
-[twitter]: https://twitter.com/arthur4410
-[line]: https://line.me/ti/p/zJUO6aAEyf
-[telegram]: https://t.me/Lin_shu_li
-[kaggle]: https://www.kaggle.com/arthur8485
