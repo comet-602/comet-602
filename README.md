@@ -1,67 +1,76 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm David Sun  [comet-602][website] 👋
+<h2> David is coming <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em>Data Science & Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-## I'm a Junior Data Engineer and also Data Analyst!
-- 🔭 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects , find a good job
-- ⚡ Fun fact: I love to self-studying and solving problems
+Hi, I'm David<br>
+Graduate at the National Chung Hsing University as  master Degree:<br>
+currently, for furter research, I study AI and Data analysis in the Institute for Information Industry<br>
+I'm a creative problem solving enthusiast, with a constantly growing love for languages.<br>
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Docker       6 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-Python       3 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-AWS          2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Hadoop       2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Spark        1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-```
-<!--END_SECTION:waka-->
+I'm new for data science but will be better
 
-### Connect with me:
+-------
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/line-messenger.svg" />][line]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" />][telegram]
+<img width = "400px" align="right" alt="GIF" height="300px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif"/>
 
+<div align="left">
+
+<i>Let's Connect:</i><br>
+
+<a href="https://www.linkedin.com/in/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/__Saravanan" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.instagram.com/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)](https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)
+
+</div>
+
+<br>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=David&show_icons=true)
+
+<br>
+
+-------
+
+**✨ Tech stacks currently using** <br>
+<br>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
+<code><a href="https://hadoop.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a></code>
+<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://kafka.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></a></code>
+<code><a href="http://linux.vbird.org/linux_basic/0110whatislinux.php" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+
+<br>
+<br>
+<br>
+
+### Recently I'm coding in...
+
+<a href="https://codestats.net/users/WEGFan">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
+</a>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br />
 <br />
 
-### Languages and Tools:
-[<img align="left" alt="Kaggle" width="35px" src="https://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png" />][kaggle]
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Python" width="30px" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png" />][website]
-[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="GCP" width="30px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />][website]
-[<img align="left" alt="AWS" width="30px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" />][website]
-[<img align="left" alt="Hadoop" width="30px" src="https://e7.pngegg.com/pngimages/260/648/png-clipart-apache-hadoop-logo-big-data-data-analysis-hadoop-distributed-filesystem-hue-hadoop-text-logo.png" />][website]
-[<img align="left" alt="Spark" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" />][website]
-[<img align="left" alt="Kafka" width="30px" src="https://i0.wp.com/logosandtypes.com/wp-content/uploads/2019/08/kafka.png" />][website]
-[<img align="left" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />][website]
-[<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" />][website]
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-
-
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<img align="left" alt="arthurtibame's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arthurtibame&show_icons=true&hide_border=true" />
-
-<img align="right" alt="arthurtibame's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtibame" />
-
-
