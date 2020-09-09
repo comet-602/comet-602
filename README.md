@@ -15,7 +15,7 @@ I'm new for data science but will be better
 
 <div align="left">
 
-<i>Let's Connect:</i><br>
+<i>Let's Connect:</i><br><br><br><br><br>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href=""><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -26,7 +26,9 @@ I'm new for data science but will be better
 <br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=comet-602&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact)
+
+
+ <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=comet-602&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 <br>
 
 -------
