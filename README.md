@@ -26,7 +26,7 @@ I'm new for data science but will be better
 <br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=comet-602&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact)
 <br>
 
 -------
@@ -59,8 +59,9 @@ I'm new for data science but will be better
 <a href="https://codestats.net/users/nativeone">
   <img src='https://codestats-readme.nativeone.cn/history-graph/nativeone?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="nativeone's Code::Stats history graph" />
 </a><br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-602)](https://github.com/comet-602/github-readme-stats)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-602)](https://github.com/comet-602/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact)](https://github.com/comet-602/github-readme-stats)
 <br>
 <br>
 <br>
