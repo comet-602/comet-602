@@ -50,19 +50,13 @@ I'm new for data science but will be better
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 
 <br>
-<br>
-<br>
-
 ### Recently I'm coding in...
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-602)](https://github.com/comet-602/github-readme-stats)
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 <br />
 <br />
