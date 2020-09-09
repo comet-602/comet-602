@@ -11,7 +11,7 @@ I'm new for data science but will be better
 
 -------
 
-<img width = "400px" align="right" alt="GIF" height="300px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif"/>
+<img width = "320px" align="right" alt="GIF" height="240px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif"/>
 
 <div align="left">
 
