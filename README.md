@@ -51,7 +51,11 @@ I'm new for data science but will be better
 
 <br>
 ### Recently I'm coding in...
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.css" />
+import "https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.js"
+<script>
+  CodeStatsEmbed("ContainerSelector", "comet-602");
+</script>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-602)](https://github.com/comet-602/github-readme-stats)
 <br>
