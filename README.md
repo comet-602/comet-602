@@ -24,6 +24,7 @@ I'm new for data science but will be better
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact)](https://github.com/comet-602/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-602)](https://github.com/comet-602/github-readme-stats)
 
 <br>
 
