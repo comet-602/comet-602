@@ -126,16 +126,17 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████░░░░░░░░░░░░   53.49% 
+Python                   0 secs              ███████████░░░░░░░░░░░░░░   46.51%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DATATHON                 1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
