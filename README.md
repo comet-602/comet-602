@@ -36,6 +36,13 @@ I'm new for data science but will be better
 -------
 
 <!--START_SECTION:waka-->
+``text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+```
 <!--END_SECTION:waka-->
 
 
@@ -62,8 +69,11 @@ I'm new for data science but will be better
 
 <br>
 <br>
-<br>
-### Recently I'm coding in... 
+<br> 
+
+
+## Recently I'm coding in... 
+
 <br>
 <br>
 <a href="https://codestats.net/users/nativeone">
