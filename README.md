@@ -26,8 +26,7 @@ I'm new for data science but will be better
 
 <br>
 
-<code><a href="https://github.com/comet-602/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api?username=comet-602"></a></code>
-<code><a href="https://github.com/comet-602/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact"></a></code>
+<code><a href="https://github.com/comet-602/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api?username=comet-602"></a><a href="https://github.com/comet-602/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact"></a></code>
 
 <br>
 
