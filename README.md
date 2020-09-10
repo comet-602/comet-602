@@ -36,14 +36,36 @@ I'm new for data science but will be better
 -------
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-196-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 184 Contributions in the Year 2020
+ > 
+> 📦 95.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories
+ > 
+> 🔑 2 Private Repositories 
+
+**I Mostly Code in Python** 
 
 ```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+Python                   12 repos            ███████████████░░░░░░░░░░   60.0% 
+Jupyter Notebook         5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+TSQL                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/comet-602/comet-602/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
