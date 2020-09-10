@@ -17,18 +17,18 @@ I'm new for data science but will be better
 
 <i>Let's Connect:</i>
 
-<div class=positon>
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href=""><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
+
 </div>
 
 
 <br>
-
-<code><a href="https://github.com/comet-602/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api?username=comet-602"></a><a href="https://github.com/comet-602/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact"></a></code>
-
+<div class=positon>
+<code><a href="https://github.com/comet-602/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api?username=comet-602"></a><a href="https://github.com/comet-602/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact"></a></code>
+</div>
 <br>
 
 
