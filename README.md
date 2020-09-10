@@ -83,7 +83,7 @@ I'm new for data science but will be better
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-246-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-256-blue)
 
 **🐱 My Github Data** 
 
