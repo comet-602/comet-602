@@ -50,14 +50,8 @@ I'm new for data science but will be better
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 
 <br>
-### Recently I'm coding in...
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.css" />
-<code>
-<script> "https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.js" </script>
-</code>
-<script>
-  CodeStatsEmbed("ContainerSelector", "comet-602");
-</script>
+### Recently I'm coding in...<br>
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-602)](https://github.com/comet-602/github-readme-stats)
 <br>
