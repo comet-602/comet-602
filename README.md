@@ -39,8 +39,9 @@ I'm new for data science but will be better
 <!--END_SECTION:waka-->
 
 
-
-**✨ Tech stacks currently using** <br>
+<br>
+**✨ Tech stacks currently using** 
+<br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
