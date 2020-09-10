@@ -27,8 +27,8 @@ I'm new for data science but will be better
 
 <br>
 <div class=positon>
-<code><a href="https://github.com/comet-602/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api?username=comet-602"></a> &nbsp; <a href="https://github.com/comet-602/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact"></a></code>
- <img  src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="150"/>
+<code><a href="https://github.com/comet-602/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api?username=comet-602"></a> &nbsp; <a href="https://github.com/comet-602/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comet-602&layout=compact"></a></code>
+ <img  src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="140"/>
 </div>
 <br>
 
