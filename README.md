@@ -52,7 +52,9 @@ I'm new for data science but will be better
 <br>
 ### Recently I'm coding in...
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.css" />
-import "https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.js"
+<code>
+<script> "https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.js" </script>
+</code>
 <script>
   CodeStatsEmbed("ContainerSelector", "comet-602");
 </script>
