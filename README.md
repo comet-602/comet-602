@@ -7,7 +7,7 @@ Graduate at the National Chung Hsing University as  master Degree:<br>
 currently, for furter research, I study AI and Data analysis in the Institute for Information Industry<br>
 I'm a creative problem solving enthusiast, with a constantly growing love for languages.<br>
 
-I'm new for data science but will be better
+I'm new for learning data science and will be better
 
 -------
 
