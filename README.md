@@ -39,7 +39,6 @@ I'm new for data science but will be better
 **✨ Tech stacks currently using** 
 <br>
 <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="/logos/python/index.html"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://guides.github.com/activities/hello-world/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
