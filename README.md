@@ -91,7 +91,7 @@ I'm new for learning data science and will be better
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories
+> 📜 26 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 
