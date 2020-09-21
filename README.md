@@ -81,11 +81,11 @@ I'm new for learning data science and will be better
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-300-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-301-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 198 Contributions in the Year 2020
+> 🏆 199 Contributions in the Year 2020
  > 
 > 📦 131.6 kB Used in Github's Storage 
  > 
