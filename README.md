@@ -34,6 +34,10 @@ I'm new for learning data science and will be better
 
 
 -------
+**✨ Try Challenge** 
+<br><br>
+<code><a href="https://www.kaggle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
+
 
 <br>
 **✨ Tech stacks currently using** 
