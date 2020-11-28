@@ -87,7 +87,7 @@ I'm new for learning data science and will be better
 
 **🐱 My Github Data** 
 
-> 📦 277.8 kB Used in Github's Storage 
+> 📦 277.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
