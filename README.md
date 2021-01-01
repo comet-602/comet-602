@@ -87,7 +87,7 @@ I'm new for learning data science and will be better
 
 **🐱 My Github Data** 
 
-> 🏆 272 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 298.5 kB Used in Github's Storage 
  > 
