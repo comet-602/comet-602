@@ -134,17 +134,16 @@ Sunday       18 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   3 mins              ████████████████████████░   97.62% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-NLP_class                3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
