@@ -134,16 +134,16 @@ Sunday       19 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yolov5                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -163,6 +163,7 @@ TSQL                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/comet-602/comet-602/master/charts/bar_graph.png) 
 
 
+ Last Updated on 10/06/2021
 <!--END_SECTION:waka-->
 
 
