@@ -91,8 +91,6 @@ I'm new for learning data science and will be better
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -136,17 +134,16 @@ Sunday       14 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     1 hr 25 mins        █████████████████████████   100.0%
+Java                     1 hr 8 mins         █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.0%
+VS Code                  1 hr 8 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-AIOT_java_ver            1 hr 8 mins         ████████████████████░░░░░   79.92% 
-hello                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08%
+AIOT_java_ver            1 hr 8 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.0%
+Windows                  1 hr 8 mins         █████████████████████████   100.0%
 
 ```
 
@@ -166,7 +163,7 @@ TSQL                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/comet-602/comet-602/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
 
 
