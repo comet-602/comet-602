@@ -91,8 +91,6 @@ I'm new for learning data science and will be better
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%2023%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -136,20 +134,16 @@ Sunday       14 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    27 mins             █████████████░░░░░░░░░░░░   51.91% 
-Python                   25 mins             ████████████░░░░░░░░░░░░░   47.77% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-car_detect               45 mins             █████████████████████░░░░   86.1% 
-Unknown Project          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -169,7 +163,7 @@ TSQL                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/comet-602/comet-602/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
 
 
