@@ -99,7 +99,7 @@ I'm new for learning data science and will be better
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 304.6 kB Used in GitHub's Storage 
+> 📦 304.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -165,7 +165,7 @@ TSQL                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/comet-602/comet-602/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022 12:12:00 UTC
+ Last Updated on 04/02/2022 12:10:33 UTC
 <!--END_SECTION:waka-->
 
 
