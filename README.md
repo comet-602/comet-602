@@ -91,8 +91,6 @@ I'm new for learning data science and will be better
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -165,7 +163,7 @@ TSQL                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/comet-602/comet-602/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/02/2022 12:11:02 UTC
+ Last Updated on 07/02/2022 00:25:18 UTC
 <!--END_SECTION:waka-->
 
 
