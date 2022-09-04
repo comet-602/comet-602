@@ -91,7 +91,7 @@ I'm new for learning data science and will be better
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -99,7 +99,7 @@ I'm new for learning data science and will be better
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 304.8 kB Used in GitHub's Storage 
+> 📦 304.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,48 +107,6 @@ I'm new for learning data science and will be better
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-🌃 Evening    28 commits     █████████████░░░░░░░░░░░░   54.9% 
-🌙 Night      20 commits     █████████░░░░░░░░░░░░░░░░   39.22%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-Tuesday      7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
-Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-Thursday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Friday       9 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Saturday     15 commits     ███████░░░░░░░░░░░░░░░░░░   29.41% 
-Sunday       11 commits     █████░░░░░░░░░░░░░░░░░░░░   21.57%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -165,7 +123,7 @@ TSQL                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/comet-602/comet-602/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/03/2022 12:14:21 UTC
+ Last Updated on 04/09/2022 12:16:09 UTC
 <!--END_SECTION:waka-->
 
 
